@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "videoupload-3d6b2",
+    "private_key_id": "f21b6c839f0a1377117c099ee74bce7eb5ad43e6",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCiD8A2He8uotPm\nmlQhevhS7eSvanAfO0NjzKNSnjYOZ751NH98ok1JOAkcIwB7OmBuj9DWZVX4bsnH\nef6vdzzHCxL+5Zf90qTDMp0N8/92xiBBBs1S+lgRziTX2a+2CeyvAAZ62Wa+rzDV\nThZpw6Dk2i1B5TRnVAmcRwKodfx+UDdZ7NmxB2hvQtTPd47fh05SB6Nq6HZJDgxB\nBxOcjMs4IIw+3p0GD47kyFxcdNajYQtbuvC6ujQkDQd/05LsU60EKpFTKZ1D+hj2\niPzm0nZmHiCbJS54nu8vFEZrzDCDzP7Iasp5wdlwmV9xRxezHVzA0Cw8LlbVGOMp\nT8uVCpDfAgMBAAECggEAId2GvghNVgKCo1q2n/RxderucdWdLnmU4IL/0iDrjOET\nBKz+ww2rdtR12uJZlGajhhcZfePZLjwAgGW22fXhxnpC8u8JbuoYsg2eki7dwHUw\ngkYom+Fii/325wA/Xpv+UKeBsyRA+zHi04Ao4NsXgRsyf+WkqL7/7x9Lp+ZX6BEI\nDL364QsddvabzTwyKkiA7hcsVOPl24MbRh1NkuDTGtCgHDTV4a9LcZG3RZyTtzJf\nwaouJlqspgP+s7FRm3OlAjYOUzwG0Lj25ER5hgRkNzpUB98+aj65Ge43NAh1HyAf\noghEJHSGMed6KAbOSrOTeaNHXVU5bstl1jyFEJWxIQKBgQDO0/krOqT4oWgJnywF\nyVG1cCpVGjX2cr5H6gdgNfqTIUNCJ9zHxDxLZAfTAWrkpzaaWwLsNKylJ55aXKC3\nSW8fwpjPrkhsoDj4rwYlbjqPQ6Bjk5rT99wRpGnCtEIB8o5d6vrJRaLm+WshEVv7\nIO1AMZHiSAYu6lFXNU9CT1Bx7wKBgQDIly+snISsN+E1tDrfYhca4XOIhh4QNr/M\nPinvGkJTY0R+nsZs2OX92wRzdcXI3WB3BW49c8/aYWsXsXOfmUxwSOVSlXOODZRO\nvuVp3XZOqdYwSVWiT+n27uRKvHZdTrsEDADowif7fHoUb908SJPalo6ObuvRx5V0\n2wDBQX0AEQKBgCEotNrsZQSDhBV+0mT/GL15BSBtulcPoFgROit/m/O4snrJv0i7\nulrv5505rfSIpmVqz/Ykn8U+q9Ga5h1chZdW8H7jVzMrINcl4Fth57uOQQmV4Y24\nQC0H6fjQQ4DibVa7VIeuRWa4eCduDAwgBEl1aQkZOPyOjonnvxRHeQM7AoGBAKiI\nVhbp3pKv1HmBtyEuUglUuPRQ8vtedKFO7X6mCmnzcn4MOt0DE6HJHaFAp2/PiBgY\nKPpazp1F0muyvVmvvEhvBrXvOYp1oFDVFP1wg9Et4vbo9pkMGaBOMOMWG0DkQD7z\nMuRdFKi4ef2nyzK2K/uxGY9UZK/5x3nJ84Vr13FxAoGBAJd93xL5V5wpSH0iDioM\n2bn8ZJR9FKZTRJrWbvX1Yfikn6iJ11NmVtzIJk+D1ASQgP1D0HZx1nNsz6KdS4xC\n8F9zRzYjSyT62kVby/Jb81lAKXo0RtPC9/YQa0yN15CLJfVwps56+AH0knldIKjQ\nD+oWFK9bziTuJDEspIh2p/ZJ\n-----END PRIVATE KEY-----\n",
+    "client_email": "videoupload-3d6b2@appspot.gserviceaccount.com",
+    "client_id": "108983682156836423075",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/videoupload-3d6b2%40appspot.gserviceaccount.com"
+  }
+  
